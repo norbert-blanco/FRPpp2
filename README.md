@@ -6,7 +6,7 @@ Python/Jupyter notebooks for the FRP++2 course, converted from the original MATL
 
 | Notebook | Description | Open in Colab |
 |---|---|---|
-| `notebooks/FRPpp2_Ex201.ipynb` | A-B-D matrices of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex201.ipynb) |
+| `notebooks/FRPpp2_Ex501.ipynb` | A-B-D matrices of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex501.ipynb) |
 
 ## For students
 
@@ -23,7 +23,7 @@ To keep your own edits, use **File > Save a copy in Drive** (or **File > Save a 
 ├── README.md
 ├── requirements.txt
 └── notebooks/
-    └── FRPpp2_Ex201.ipynb
+    └── FRPpp2_Ex501.ipynb
 ```
 
 ## Running locally (optional)
