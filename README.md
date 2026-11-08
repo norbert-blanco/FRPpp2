@@ -1,6 +1,6 @@
 # FRPpp2 notebooks
 
-Python/Jupyter notebooks for the FRP++2 course, converted from the original MATLAB Live Scripts. Each notebook runs directly in Google Colab with no setup, using only `numpy` and `pandas` (both preinstalled in Colab).
+Python/Jupyter notebooks for the FRP++2 course, converted from the original MATLAB Live Scripts. Each notebook runs directly in Google Colab with no setup, using only `numpy`, `pandas` and `matplotlib` (all preinstalled in Colab).
 
 ## Notebooks
 
@@ -9,6 +9,8 @@ Python/Jupyter notebooks for the FRP++2 course, converted from the original MATL
 | `notebooks/FRPpp2_Ex0501.ipynb` | A-B-D matrices of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0501.ipynb) |
 | `notebooks/FRPpp2_Ex0603.ipynb` | Laminate's engineering properties (A-B-D matrices, in-plane and flexural properties) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0603.ipynb) |
 | `notebooks/FRPpp2_Ex0704.ipynb` | Hygrothermal strains and stresses of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0704.ipynb) |
+| `notebooks/FRPpp2_Ex0802.ipynb` | Maximum stress failure criteria of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0802.ipynb) |
+| `notebooks/FRPpp2_Ex0803.ipynb` | Maximum strain failure criteria of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0803.ipynb) |
 
 ## For students
 
@@ -27,7 +29,9 @@ To keep your own edits, use **File > Save a copy in Drive** (or **File > Save a 
 └── notebooks/
     ├── FRPpp2_Ex0501.ipynb
     ├── FRPpp2_Ex0603.ipynb
-    └── FRPpp2_Ex0704.ipynb
+    ├── FRPpp2_Ex0704.ipynb
+    ├── FRPpp2_Ex0802.ipynb
+    └── FRPpp2_Ex0803.ipynb
 ```
 
 ## Running locally (optional)
