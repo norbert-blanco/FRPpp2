@@ -11,6 +11,7 @@ Python/Jupyter notebooks for the FRP++2 course, converted from the original MATL
 | `notebooks/FRPpp2_Ex0704.ipynb` | Hygrothermal strains and stresses of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0704.ipynb) |
 | `notebooks/FRPpp2_Ex0802.ipynb` | Maximum stress failure criteria of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0802.ipynb) |
 | `notebooks/FRPpp2_Ex0803.ipynb` | Maximum strain failure criteria of a composite laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_Ex0803.ipynb) |
+| `notebooks/FRPpp2_laminate_predesign.ipynb` | Laminate pre-design based on Tsai-Hill and Yamada-Sun failure criteria | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/FRPpp2/blob/main/notebooks/FRPpp2_laminate_predesign.ipynb) |
 
 ## For students
 
@@ -31,7 +32,8 @@ To keep your own edits, use **File > Save a copy in Drive** (or **File > Save a 
     ├── FRPpp2_Ex0603.ipynb
     ├── FRPpp2_Ex0704.ipynb
     ├── FRPpp2_Ex0802.ipynb
-    └── FRPpp2_Ex0803.ipynb
+    ├── FRPpp2_Ex0803.ipynb
+    └── FRPpp2_laminate_predesign.ipynb
 ```
 
 ## Running locally (optional)
